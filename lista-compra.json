@@ -1,0 +1,22 @@
+{
+  "articulos": [
+    {
+      "id": 1,
+      "nombre": "Pan",
+      "precio": 0.75,
+      "comprado": false
+    },
+    {
+      "id": 2,
+      "nombre": "Azúcar",
+      "precio": null,
+      "comprado": false
+    },
+    {
+      "id": 3,
+      "nombre": "Leche",
+      "precio": 1.2,
+      "comprado": false
+    }
+  ]
+}
